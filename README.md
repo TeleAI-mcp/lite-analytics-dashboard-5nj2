@@ -1,2 +1,3 @@
-# lite-analytics-dashboard-5nj2
-Analytics dashboard for modern development workflows
+# Lite Analytics Dashboard 5Nj2
+
+A analytics dashboard for modern development workflows.
